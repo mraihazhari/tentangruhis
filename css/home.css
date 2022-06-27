@@ -1,0 +1,79 @@
+body {
+    position: relative;
+    width: 1024px;
+    height: 768px;
+    background: url("../home/background.png") center center;
+    background-size: cover;
+  }
+
+  h1 {
+    position: absolute;
+    left: 5.48%;
+    right: 71.28%;
+    top: 13.28%;
+    bottom: 63.79%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 107.135px;
+    line-height: 123px;
+    /* identical to box height */
+    color: #FFB200;
+  }
+
+  h2{
+    position: absolute;
+    left: 5.48%;
+    right: 6.28%;
+    top: 42.78%;
+    bottom: 47.29%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 107.135px;
+    line-height: 143px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+  }
+
+
+
+  .tentang{
+    position: absolute;
+    left: 2.39%;
+    right: 68.92%;
+    top: 28.43%;
+    bottom: 57.33%;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+  }
+
+  .ruhis{
+    position: absolute;
+    left: 2.39%;
+    right: 68.92%;
+    top: 60.93%;
+    bottom: 24.83%;
+
+    background: #0081DA;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+  }
+
+  p{
+    position: absolute;
+    left: 4.27%;
+    right: 35.18%;
+    top: 76.44%;
+    bottom: 40.37%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 29.0648px;
+    line-height: 46px;
+
+    color: #0081DA;
+  }
